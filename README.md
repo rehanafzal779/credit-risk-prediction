@@ -31,8 +31,7 @@ Build a machine learning model to predict whether a loan applicant is likely to 
 
 ## 📈 Results
 
-- **Logistic Regression Accuracy**: ~80%
-- **Decision Tree Accuracy**: ~76%
+- **Logistic Regression Accuracy**: ~84%
 - Logistic Regression gave more stable predictions with fewer false positives
 
 ---
